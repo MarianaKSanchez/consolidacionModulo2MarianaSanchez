@@ -18,3 +18,12 @@ nav,footer{
     width: 50vw;
     text-align: justify;
   }
+
+  .proyectos {
+    
+    margin: 1 rem;
+    flex-direction: row;
+    justify-content: space-around;
+    
+
+  }
