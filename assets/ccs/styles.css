@@ -1,3 +1,20 @@
 nav,footer{
     background-color: #273142;
 }
+
+.seccion-desc {
+    display: flex;
+    margin: 1 rem;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .seccion-desc img {
+    width: 20vw;
+  }
+
+  .seccion-desc-p {
+    width: 50vw;
+    text-align: justify;
+  }
